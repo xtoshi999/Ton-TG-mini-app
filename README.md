@@ -1,4 +1,4 @@
-# Ton-Telegram-Mini-App-Template
+# Ton-Telegram-Mini-App
 
 This is a template for developing Telegram mini apps on the TON blockchain. It is built using ReactJS, Tailwind CSS, and Vite to enable quick development of mini app user interfaces. Brought to you by [TonPanda](https://tonpanda.com/).
 
